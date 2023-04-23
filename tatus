@@ -1,0 +1,120 @@
+[33mcommit d88d1313be4fa4f124c92afa3b747aff569e7473[m[33m ([m[1;36mHEAD -> [m[1;32mclean-code-s1e1[m[33m)[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sun Apr 23 18:51:03 2023 +0300
+
+    refactor: remove id css selectors according to BEM according to rule 2.1 in html-and-css-extended.md
+
+[33mcommit 426a78a34cc1ce465e9669e098a0350125269eb6[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sun Apr 23 18:45:10 2023 +0300
+
+    refactor: adjust css selectors according to rule 3.4 in html-and-css.md, rename classes according to BEM according to rule 2.1 in html-and-css-extended.md
+
+[33mcommit d672f081e7e3691f688a51c43ab3fbbf4c9ed6b6[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sun Apr 23 08:58:00 2023 +0300
+
+    refactor: add alt attribute for media content in index.html and app.js according to rule 1.2 in html-and-css-extended.md
+
+[33mcommit f5519e16b5b88a7c80a3ca4e84d58c8232b66e09[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sun Apr 23 08:52:57 2023 +0300
+
+    refactor: add semantic tags in index.html according to rule 1.1 in html-and-css-extended.md
+
+[33mcommit 63e431c20437cf1de1421a7691a5480ec8662f3e[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sat Apr 22 23:53:28 2023 +0300
+
+    refactor: add line breaks for CSS selectors in style.css according to rule 3.8 in html-and-css.md
+
+[33mcommit a38c6770f7458bfbd1168b0017bccb8fa0e409ba[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sat Apr 22 23:51:27 2023 +0300
+
+    refactor: add semicolons after CSS properties in style.css according to rule 3.7 in html-and-css.md
+
+[33mcommit af614436c8ab037f0fd7656ef37474eddec2f9d5[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sat Apr 22 23:49:10 2023 +0300
+
+    refactor: add space after CSS property in style.css according to rule 3.6 in html-and-css.md
+
+[33mcommit f36b12c55d1d841ea41ba7447e92f3fd80f8d3e9[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Sat Apr 22 23:45:16 2023 +0300
+
+    refactor: format style.css according to rule 3.5 in html-and-css.md
+
+[33mcommit 69d0115456f3bede355c65a47da47b43bc08e9a9[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:40:16 2023 +0300
+
+    refactor: rename classes and id in index.html and style according to rule 3.3 in html-and-css.md
+
+[33mcommit ff26c991cd6e78ec1a3109bbe4f75cda342e5e33[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:36:19 2023 +0300
+
+    refactor: rename classes in index.html and style.css according to rule 3.2 in html-and-css.md
+
+[33mcommit cd9e178dc7570f2ee6b61106455e003c925bf3a6[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:31:47 2023 +0300
+
+    refactor: rename css selectors in index.html, style.css, app.js according to rule 3.1 in html-and-css.md
+
+[33mcommit 5364fdaa9c3f7f05684b098429b166461a2736f0[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:20:22 2023 +0300
+
+    refactor: adjust HTML Line-Wrapping in index.html according to rule 2.5 in html-and-css.md
+
+[33mcommit c2d284c7bcea7b097443ef25891f58a92e95ab88[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:13:35 2023 +0300
+
+    refactor: remove type attribute in index.html according to rule 2.4 in html-and-css.md
+
+[33mcommit ae34f9339239e97cf4fdacb16b3065fea93db1ea[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:07:31 2023 +0300
+
+    refactor: replace mnemonic symbol in index.html according to rule 2.3 in html-and-css.md
+
+[33mcommit 214fd5265981e647d89fc6c2d4c29dba55b2fe98[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:03:01 2023 +0300
+
+    fix: add HTML5 DOCTYPE tag in index.html according to rule 2.2 in html-and-css.md
+
+[33mcommit b0e9746d99afb01edfa1fe716dc3c3f8eb4ed1b0[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 23:00:18 2023 +0300
+
+    refactor: adjust HTML-formatting in index.html according to rule 2.1 in html-and-css.md
+
+[33mcommit 0ef5d33dfe423daaf8cf70a25b91645e9b1a51c5[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 22:47:21 2023 +0300
+
+    refactoring: replacing single with double quotes in index.html and style.css according to rule 1.3 in html-and-css.md
+
+[33mcommit a87dae8f298a3d2e84b5bfca1e2fe9f45006c7bb[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 22:38:37 2023 +0300
+
+    refactor: format to lowercase in index.html and style.css according to
+    rule 1.2 in html-and-css.md
+
+[33mcommit 3b3de71d1123f62cbf433579388d8b611b778e5b[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 22:26:04 2023 +0300
+
+    refactor: adjust indents in index.html, style.css and app.js according to rule 1.1 in html-and-css.md
+
+[33mcommit 4d4dd493a3d376133a4eea93594c7da3af9ea308[m[33m ([m[1;32mmaster[m[33m)[m
+Author: vladimir <vladimirleonov789@gmail.com>
+Date:   Fri Apr 21 20:41:15 2023 +0300
+
+    init: start clean-code-s1e1 task
